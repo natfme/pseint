@@ -1,1 +1,1 @@
-# pseint-segundo_periodo
+# pseint-apuntes
